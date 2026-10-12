@@ -1,0 +1,4 @@
+serverUsername=YOUR_DB_USER
+serverPassword=YOUR_DB_PASSWORD
+databaseName=JamJar
+serverName=your-server.example.edu
